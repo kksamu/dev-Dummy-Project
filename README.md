@@ -1,2 +1,2 @@
 # dev-Dummy-Project
-dummy dev project 
+This is dummy project 
